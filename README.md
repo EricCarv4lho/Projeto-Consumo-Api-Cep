@@ -53,7 +53,7 @@ Este projeto é uma aplicação Spring Boot que consome a API do ViaCEP para obt
    - **Método**: `GET`
    - **Descrição**: Lista todos os clientes cadastrados.
 
-   2. **Deletar Cliente**
+4. **Deletar Cliente**
     - **Endpoint**: `/clientes/id`
      - **Método**: `DELETE`
       - **Descrição**: Deleta um cliente pelo id.
