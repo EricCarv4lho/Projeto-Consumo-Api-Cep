@@ -11,7 +11,7 @@ Este projeto é uma aplicação Spring Boot que consome a API do ViaCEP para obt
 
 ### Entidades
 
-- **Cliente**: Representa um cliente com informações básicas como nome e e-mail.
+- **Cliente**: Representa um cliente com informações básicas como nome.
 - **Endereco**: Representa um endereço com detalhes como rua, bairro, cidade e estado.
 
 ### Endpoints
